@@ -11,7 +11,7 @@ services:
 
         pull_policy: always
         tty: true
-        restart: unless-stopped
+        restart: "no"
         environment:
             - gpus=all
         deploy:
@@ -27,7 +27,7 @@ services:
     flowise:
         container_name: flowise
         image: flowiseai/flowise
-        restart: always
+        restart: "no"
         environment:
             - PORT=${PORT}
             - CORS_ORIGINS=${CORS_ORIGINS}
