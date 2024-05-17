@@ -65,3 +65,7 @@ To stop the project, run the following command:
 ```bash
 docker-compose stop
 ```
+
+# Flowise Chatflow
+
+This project uses the flowise chatflow to interact with the user. The chatflow is located in the root of the project in the file `AsistenteEducativa-llama3 Chatflow.json`. You can modify the chatflow by editing this file.
