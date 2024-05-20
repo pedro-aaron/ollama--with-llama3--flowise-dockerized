@@ -1,3 +1,9 @@
+# Educational assistant for learning American countries' capitals
+
+This project aims to develop an educational assistant designed to help children learn the capitals of American countries in an interactive and engaging way. Utilizing Llama3 and Ollama, we have created a chatbot that operates through a web interface, providing a user-friendly experience similar to ChatGPT. The project includes a comprehensive guide on setting up the environment, dockerizing Ollama and Flowise for a streamlined configuration, and a repository with all necessary installation and configuration steps. By integrating advanced technologies with educational content, we strive to transform traditional learning methods and make education more accessible and enjoyable for young learners.
+
+---
+
 # Installation guide
 
 URL:
